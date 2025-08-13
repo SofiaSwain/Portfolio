@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+  <style>
+    body {
+      background-color: white;
+      color: #fff;
+      margin: 60px;
+    }
+
+    .back-link {
+      position: fixed;
+      top: 20px;
+      left: 20px;
+      z-index: 1000;
+    }
+
+    .back-icon {
+      width: 40px;
+      height: auto;
+      cursor: pointer;
+      transition: transform 0.3s ease;
+    }
+
+    .back-icon:hover {
+      transform: scale(1.1);
+    }
+  </style>
+</head>
+<body>
+
+  <!-- ✅ This is the image link for going back to the homepage -->
+  <a href="index.html" class="back-link">
+    <img src="back.png" alt="Back to Home" class="back-icon" />
+  </a>
+
+
+
+</body>
+</html>

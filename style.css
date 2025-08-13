@@ -1,0 +1,241 @@
+html {
+  height: 100%;
+  width: 100%;
+  font-family: 'Reenie Beanie', sans-serif;
+
+body {
+  background-color:white;
+  color: #ff61ea;
+
+  .faces-image {
+      position: absolute;
+      top: 32%;
+      left: 46.5%;
+      transform: translate(-50%, -50%);
+  }
+
+  .davidbowie {
+      position: absolute;
+      top: 32%;
+      left: 66.5%;
+      transform: translate(-50%, -50%);
+  }
+
+  .image-container {
+      position: absolute;
+      top: 45%;
+      left: 57%;
+      transform: translate(-50%, -50%);
+  }
+
+  .sofdraw-image {
+      position: absolute;
+      top: 33%;
+      left: 72.7%;
+      transform: translate(-50%, -50%);
+  }
+
+      .oldman {
+          position: absolute;
+          top: 33%;
+          left:87%;
+          transform: translate(-50%, -50%);
+      }
+
+     .boy {
+          position: absolute;
+          top: 20%;
+          left: 63%;
+          transform: translate(-50%, -50%);
+      }
+
+    .megif {
+          position: absolute;
+          top: 76%;
+          left: 24.5%;
+          transform: translate(-50%, -50%);
+      }
+
+    .sm {
+          position: absolute;
+          top: 76%;
+          left: 75%;
+          transform: translate(-50%, -50%);
+      }
+
+    .smile {
+          position: absolute;
+          top: 75%;
+          left: 47%;
+          transform: translate(-50%, -50%);
+        
+      }
+
+  .moreinfo {
+      position: absolute;
+      top: 75%;
+      left: 60%;
+      transform: translate(-50%, -50%);
+
+  }
+
+    .sofport {
+      position: absolute;
+      top: 4%;
+      left: 58.1%;
+      transform: translate(-50%, -50%);
+    }
+
+   .info1 {
+     float: right;
+     margin-left: 2px; /
+     
+   }
+
+    .starz {
+      position: absolute;
+      top: 12%;
+      left: 34%;
+      transform: translate(-50%, -50%);
+
+  }
+
+  .smop {
+      position: absolute;
+      top: 78%;
+      left: 60%;
+      transform: translate(-50%, -50%);
+
+  }
+
+  .book {
+      position: absolute;
+      top: 78%;
+      left: 80%;
+      transform: translate(-50%, -50%);
+
+  }
+
+  .site {
+      position: absolute;
+      top: 117%;
+      left: 25%;
+      transform: translate(-50%, -50%);
+
+  }
+
+  .tree {
+      position: absolute;
+      top: 117%;
+      left: 60%;
+      transform: translate(-50%, -50%);
+
+  }
+
+  .man {
+      position: absolute;
+      top: 105%;
+      left: 75%;
+      transform: translate(-50%, -50%);
+
+  }
+
+  .poster {
+      position: absolute;
+      top: 117%;
+      left: 88%;
+      transform: translate(-50%, -50%);
+
+  }
+
+    .modglut {
+          position: absolute;
+          top: 157%;
+          left: 32%;
+          transform: translate(-50%, -50%);
+
+      }
+
+    .painting {
+          position: absolute;
+          top: 157%;
+          left: 50%;
+          transform: translate(-50%, -50%);
+
+      }
+
+    .books {
+          position: absolute;
+          top: 154%;
+          left: 64%;
+          transform: translate(-50%, -50%);
+
+      }
+
+    .mary {
+          position: absolute;
+          top: 161%;
+          left: 81%;
+          transform: translate(-50%, -50%);
+
+      }
+
+    .flower {
+          position: absolute;
+          top: 161%;
+          left: 89%;
+          transform: translate(-50%, -50%);
+
+      }
+
+    .form {
+          position: absolute;
+          top: 200%;
+          left: 35%;
+          transform: translate(-50%, -50%);
+
+      }
+  
+    .about-link {
+      position: absolute;
+      top: 20px;
+      right: 20px;
+      z-index: 999;
+    }
+
+    .about-icon {
+      width: 40px;
+      height: auto;
+      cursor: pointer;
+      transition: transform 0.3s ease;
+    }
+
+    .about-icon:hover {
+      transform: scale(1.1);
+    }
+
+    back-link {
+      position: fixed;
+      top: 20px;
+      left: 20px;
+      z-index: 1000;
+    }
+
+    .back-icon {
+      width: 40px;  /* Adjust as needed */
+      height: auto;
+      cursor: pointer;
+      transition: transform 0.3s ease;
+    }
+  
+    .back-icon:hover {
+      transform: scale(1.1);
+    }
+
+  .image-container {
+    margin-top: -5%;  /* Negative margin moves it UP by 5% */
+  }
+
+  .image-wrapper {
+    margin-top: 4%;  /* moves it DOWN by 4% */
+  }
