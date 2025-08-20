@@ -7,10 +7,10 @@ body {
   background-color:white;
   color: #ff61ea;
 
-  .faces-image {
+  .form {
       position: absolute;
       top: 32%;
-      left: 46.5%;
+      left: 47%;
       transform: translate(-50%, -50%);
   }
 
@@ -37,7 +37,7 @@ body {
 
       .oldman {
           position: absolute;
-          top: 33%;
+          top: 157%;
           left:87%;
           transform: translate(-50%, -50%);
       }
@@ -167,31 +167,23 @@ body {
     .books {
           position: absolute;
           top: 154%;
-          left: 64%;
+          left: 66%;
           transform: translate(-50%, -50%);
 
       }
 
     .mary {
           position: absolute;
-          top: 161%;
-          left: 81%;
+          top: 33%;
+          left: 87%;
           transform: translate(-50%, -50%);
 
       }
 
     .flower {
           position: absolute;
-          top: 161%;
-          left: 89%;
-          transform: translate(-50%, -50%);
-
-      }
-
-    .form {
-          position: absolute;
-          top: 200%;
-          left: 35%;
+          top: 52%;
+          left: 85%;
           transform: translate(-50%, -50%);
 
       }
